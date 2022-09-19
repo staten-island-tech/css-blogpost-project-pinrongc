@@ -29,3 +29,8 @@ body {
 img {
     width: 300px;
 }
+
+.containter1 { 
+display: flex;
+}
+
